@@ -1,10 +1,9 @@
-# Project 4 - *Name of App Here*
+# Project 4 - *Todo List*
 
-Submitted by: **Your Name Here**
+Submitted by: **Dhruv Phansalkar**
 
-**Name of your app** is an app that ... [TODO] 
+**Todo List** is an app that that allows users to create a todo list and encourages them to actually complete the task by uploading the picture and tagging its location once completed. 
 
-Time spent: **X** hours spent in total
 
 ## Required Features
 
@@ -15,14 +14,6 @@ The following **required** functionality is completed:
 - [x] When user adds photo to complete the tasks, it marks the task as complete
 - [x] When adding photo of task, the location is added
 - [x] User returns to home page (list of tasks) and the status of your task is updated to complete
- 
-The following **optional** features are implemented:
-
-- [ ] User can launch camera to snap a picture	
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
